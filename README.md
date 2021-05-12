@@ -1,0 +1,2 @@
+# Mini-Dimensional-Traveler
+In this game, the user will navigate through a randomized maze to reach an exit.  However, while traversing there will be obstacles the player must be aware of  and be able to pass. Obstacles include spikes, refiring missiles, and a chasing  lava. As the player is traversing, there will be coins to collect to up their  score as well different levels with increasing difficulty. The objective of the  game is to reach a portal that will take the player to safety. 
